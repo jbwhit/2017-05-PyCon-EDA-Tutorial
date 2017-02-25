@@ -1,0 +1,82 @@
+name: pycon-eda
+dependencies:
+- appnope=0.1.0=py27_0
+- backports=1.0=py27_0
+- backports_abc=0.5=py27_0
+- bleach=1.5.0=py27_0
+- certifi=2017.1.23=py27_0
+- configparser=3.5.0=py27_0
+- cycler=0.10.0=py27_0
+- decorator=4.0.11=py27_0
+- entrypoints=0.2.2=py27_1
+- enum34=1.1.6=py27_1
+- freetype=2.7=1
+- functools32=3.2.3.2=py27_1
+- get_terminal_size=1.0.0=py27_0
+- html5lib=0.999=py27_0
+- ipykernel=4.5.2=py27_0
+- ipython=5.3.0=py27_0
+- ipython_genutils=0.1.0=py27_0
+- jinja2=2.9.5=py27_0
+- jsonschema=2.5.1=py27_0
+- jupyter_client=5.0.0=py27_0
+- jupyter_core=4.3.0=py27_0
+- jupyterlab=0.16.2=py27_0
+- libpng=1.6.28=0
+- libsodium=1.0.10=0
+- markupsafe=0.23=py27_2
+- matplotlib=2.0.0=np112py27_2
+- mistune=0.7.3=py27_1
+- mkl=2017.0.1=0
+- nbconvert=5.1.1=py27_0
+- nbformat=4.3.0=py27_0
+- notebook=4.4.1=py27_0
+- numpy=1.12.0=py27_0
+- openssl=1.0.2k=0
+- pandas=0.19.2=np112py27_1
+- pandoc=1.19.2.1=0
+- pandocfilters=1.4.1=py27_0
+- path.py=10.1=py27_0
+- pathlib2=2.2.1=py27_0
+- pexpect=4.2.1=py27_0
+- pickleshare=0.7.4=py27_0
+- pip=9.0.1=py27_1
+- prompt_toolkit=1.0.13=py27_0
+- ptyprocess=0.5.1=py27_0
+- pygments=2.2.0=py27_0
+- pyparsing=2.1.10=py27_0
+- python=2.7.12=2
+- python-dateutil=2.6.0=py27_0
+- pytz=2016.10=py27_0
+- pyzmq=16.0.2=py27_1
+- readline=6.2=2
+- scandir=1.5=py27_1
+- scikit-learn=0.18.1=np112py27_1
+- scipy=0.18.1=np112py27_1
+- setuptools=33.1.0=py27_0
+- simplegeneric=0.8.1=py27_1
+- singledispatch=3.4.0.3=py27_0
+- six=1.10.0=py27_1
+- sqlite=3.13.0=1
+- ssl_match_hostname=3.5.0.1=py27_0
+- subprocess32=3.2.7=py27_0
+- terminado=0.6=py27_0
+- testpath=0.3=py27_0
+- tk=8.5.19=1
+- tornado=4.4.2=py27_0
+- traitlets=4.3.2=py27_0
+- wcwidth=0.1.7=py27_0
+- wheel=0.29.0=py27_0
+- zeromq=4.2.1=1
+- zlib=1.2.11=0
+- pip:
+  - backports-abc==0.5
+  - backports.shutil-get-terminal-size==1.0.0
+  - backports.ssl-match-hostname==3.5.0.1
+  - ipython-genutils==0.1.0
+  - jupyter-client==5.0.0
+  - jupyter-core==4.3.0
+  - missingno==0.3.4
+  - prompt-toolkit==1.0.13
+  - seaborn==0.7.1
+
